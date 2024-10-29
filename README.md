@@ -1,3 +1,3 @@
  <p align="center">
-<img align="center" src="https://github.com/hellcard/hellcatd/blob/main/arlecchino.jpg" />
+<img align="center" src="https://github.com/hellcard/hellcard/blob/main/assets/arlecchino.jpg" />
 </p>
