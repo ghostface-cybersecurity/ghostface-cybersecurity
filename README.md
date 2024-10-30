@@ -23,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hellcard&show_icons=true&theme=shadow_red&hide_border=true" width="400">
 <br> <br>
 <h2 align="center">More about me</h2>
-<h3 align="left"><br>My skills</h3>
+<h3 align="center"><br>My skills</h3>
  <p align="left"><li> Specialization: <b>backend development</b> <br> </p>
  <p align="left"><li> Stack: <b>python | django</b> <br> </p>
  <p align="left"><li> Languages: <b>python, bash</b> <br> </p>
