@@ -31,4 +31,4 @@
 - Languages: **python, bash**
 - Knowledge: **python, bash, linux, c++, golang**
 <br>
-<img src="https://github.com/hellcard/hellcard/blob/main/assets/end.jpg" width="500" />
+<img src="https://github.com/hellcard/hellcard/blob/main/assets/end.jpg" width="400"/>
