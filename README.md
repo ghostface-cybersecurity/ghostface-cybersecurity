@@ -24,7 +24,7 @@
 <br> <br>
 <h2 align="center">More about me</h2>
 <br> <br> <br>
-<img align="right" src="https://github.com/hellcard/hellcard/blob/main/assets/skills.jpg" width="400" />
+<img align="right" src="https://github.com/hellcard/hellcard/blob/main/assets/arlecchino_skills.jpg" width="400" />
 <img align="left" src="https://github.com/hellcard/hellcard/blob/main/assets/my_skills.jpg" width="320" />
 <br> <br> <br> <br> <br> <br> <br> <br>
 
