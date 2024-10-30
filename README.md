@@ -29,3 +29,6 @@
  <p align="left"><li> Stack: <b>python | django</b> <br> </p>
  <p align="left"><li> Languages: <b>python, bash</b> <br> </p>
  <p align="left"><li> Knowledge: <b>python, bash, linux, c++, golang</b> <br> </p>
+
+
+<img align="center" src="">
