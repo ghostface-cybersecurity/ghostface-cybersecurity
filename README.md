@@ -13,13 +13,15 @@
   
 - Hobbys: **programming, web development**
 
-- Learning: **Django**
+- Learning: **django**
 
 - Working: **None**
 
 - In love: **None**
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hellcard&show_icons=true&theme=shadow_red&hide_border=true">
+<br> <br>
 <h2 align="center">More about me</h2>
 <br> <br> <br>
 <img align="right" src="https://github.com/hellcard/hellcard/blob/main/assets/skills.jpg" width="400" />
@@ -28,7 +30,8 @@
 
 - Specialization: **backend development**
 
-- Stack: **Python | Django**
+- Stack: **python | django**
 
-- Languages: **Python, Bash**
+- Languages: **python, bash**
 
+- Knowledge: **python, bash, linux, c++, golang**
