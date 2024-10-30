@@ -30,5 +30,5 @@
 - Stack: **python | django**
 - Languages: **python, bash**
 - Knowledge: **python, bash, linux, c++, golang**
-<br> <br>
+<br>
 <img src="https://github.com/hellcard/hellcard/blob/main/assets/end.jpg" width="500" />
