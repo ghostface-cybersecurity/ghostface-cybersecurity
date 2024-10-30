@@ -23,15 +23,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hellcard&show_icons=true&theme=shadow_red&hide_border=true" width="400">
 <br> <br>
 <h2 align="center">More about me</h2>
-<br> <br> <br>
-<img align="right" src="https://github.com/hellcard/hellcard/blob/main/assets/arlecchino_skills.jpg" width="400" />
-<img align="left" src="https://github.com/hellcard/hellcard/blob/main/assets/my_skills.jpg" width="320" />
-<br> <br> <br> <br> <br> <br> <br> <br>
-
-- Specialization: **backend development**
-
-- Stack: **python | django**
-
-- Languages: **python, bash**
-
-- Knowledge: **python, bash, linux, c++, golang**
+<h3 align="center">My skills</h3>
+ <li> Specialization: <b>backend development</b> <br>
+ <li> Stack: <b>python | django</b> <br>
+ <li> Languages: <b>python, bash</b> <br>
+ <li> Knowledge: <b>python, bash, linux, c++, golang</b> <br>
