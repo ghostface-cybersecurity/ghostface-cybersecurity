@@ -7,16 +7,10 @@
 
 - Age: **16**
 
-- Specialization: **backend development**
-
-- I'm interested in: **ai, devops, cyber-security**
+- I'm interested in: **backend development, ai, devops, cyber-security**
 
 - OS: **kali linux**
-
-- Languages: **Python, Bash**
-
-- Stack: **Python | Django**
-
+  
 - Hobbys: **programming, web development**
 
 - Learning: **Django**
@@ -25,5 +19,16 @@
 
 - In love: **None**
 
-<br> <br> <br> <br> <br> <br>
-<img src="https://github.com/hellcard/hellcard/blolb/main/assets/---.png" />
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
+<h2 align="center">More about me</h2>
+<br> <br> <br>
+<img align="right" src="https://github.com/hellcard/hellcard/blob/main/assets/skills.jpg" width="400" />
+<img align="left" src="https://github.com/hellcard/hellcard/blob/main/assets/my_skills.jpg" width="320" />
+<br> <br> <br> <br> <br> <br> <br> <br>
+
+- Specialization: **backend development**
+
+- Stack: **Python | Django**
+
+- Languages: **Python, Bash**
+
