@@ -25,10 +25,10 @@
 <br> <br>
 <h2 align="center">More about me</h2>
 <h3 align="center"><br>My skills</h3>
- <p align="left"><li> Specialization: <b>backend development</b> <br> </p>
- <p align="left"><li> Stack: <b>python | django</b> <br> </p>
- <p align="left"><li> Languages: <b>python, bash</b> <br> </p>
- <p align="left"><li> Knowledge: <b>python, bash, linux, c++, golang</b> <br> </p>
 
-
-<img align="center" src="">
+- Specialization: **backend development**
+- Stack: **python | django**
+- Languages: **python, bash**
+- Knowledge: **python, bash, linux, c++, golang**
+<br> <br>
+<img src="https://github.com/hellcard/hellcard/blob/main/assets/end.jpg" width="500" />
