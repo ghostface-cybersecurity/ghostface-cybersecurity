@@ -20,7 +20,7 @@
 - In love: **None**
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=hellcard&show_icons=true&theme=shadow_red&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=hellcard&show_icons=true&theme=shadow_red&hide_border=true" width="400">
 <br> <br>
 <h2 align="center">More about me</h2>
 <br> <br> <br>
