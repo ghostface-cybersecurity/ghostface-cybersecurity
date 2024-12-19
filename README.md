@@ -8,9 +8,9 @@
 
 - Name: **hellcard**
 
-- Age: **16**
+- Age: **17**
 
-- I'm interested in: **backend development, ai, devops, cyber-security**
+- I'm interested in: **engineering, backend development, ai, devops, cyber-security**
 
 - OS: **kali linux**
   
@@ -24,9 +24,9 @@
 
 <h3>My skills</h3>
 
-- Specialization: **backend development**
+- Specialization: **backend | engineering**
 - Stack: **python | django**
-- Languages: **python, bash**
+- Languages: **python, bash, cpp, c**
 - Knowledge: **python, bash, linux, c++, c, django**
 
 <h2>My stats</h2>
