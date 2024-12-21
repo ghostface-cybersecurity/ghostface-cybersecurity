@@ -10,13 +10,13 @@
 
 - Age: **17**
 
-- I'm interested in: **engineering, backend development, ai, devops, cyber-security**
+- I'm interested in: **backend development,engineering , ai, devops, cyber-security**
 
 - OS: **kali linux**
   
-- Hobbys: **programming, web development**
+- Hobbys: **programming, web development, arduino**
 
-- Learning: **django**
+- Learning: **django, arduino**
 
 - Working: **None**
 
