@@ -10,7 +10,7 @@
 
 - Age: **17**
 
-- I'm interested in: **backend development,engineering , ai, devops, cyber-security**
+- I'm interested in: **backend development, engineering , ai, devops, cyber-security**
 
 - OS: **kali linux**
   
