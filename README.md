@@ -10,13 +10,13 @@
 
 - Age: **17**
 
-- I'm interested in: **backend development, engineering , ai, devops, cyber-security**
+- I'm interested in: **cyber-security, backend development, engineering , ai**
 
 - OS: **kali linux**
   
 - Hobbys: **programming, web development, arduino**
 
-- Learning: **django, arduino**
+- Learning: **c, cpp, arduino**
 
 - Working: **None**
 
@@ -24,8 +24,8 @@
 
 <h3>My skills</h3>
 
-- Specialization: **backend | engineering**
-- Stack: **python | django**
+- Specialization: **cyber-security | engineering**
+- Stack: **c/c++**
 - Languages: **python, bash, cpp, c**
 - Knowledge: **python, bash, linux, c++, c, django**
 
