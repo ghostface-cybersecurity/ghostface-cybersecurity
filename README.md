@@ -25,7 +25,7 @@
 <h3>My skills</h3>
 
 - Specialization: **cyber-security | engineering**
-- Stack: **c/c++**
+- Stack: **c/c++ python golang**
 - Languages: **python, bash, cpp, c**
 - Knowledge: **python, bash, linux, c++, c, django**
 
