@@ -1,12 +1,8 @@
-<h1>Welcome, you can call me hellcard</h1>
-
-
-
-![](https://komarev.com/ghpvc/?username=hellcard&color=blueviolet)
+<h1>Welcome, you can call me ghostface</h1>
 
 <h2>About me</h2>
 
-- Name: **hellcard**
+- Name: **ghostface**
 
 - Age: **17**
 
@@ -26,11 +22,11 @@
 
 - Specialization: **cyber-security | engineering**
 - Stack: **c/c++ python golang**
-- Languages: **python, bash, cpp, c**
-- Knowledge: **python, bash, linux, c++, c, django**
+- Languages: **python bash cpp c**
+- Knowledge: **python bash linux c++ c django**
 
 <h2>My stats</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hellcard&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghostface-cybersecurity&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-stats.vercel.app/api?username=hellcard&show_icons=true&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=ghostface-cybersecurity&show_icons=true&theme=dark&hide_border=true)
