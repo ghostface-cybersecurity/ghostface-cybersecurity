@@ -29,12 +29,12 @@ ________________________________________________________________________________
                     dMc               :OO;         Hobbys: pentesting, web-development, arduino
                     0M.                 .:o.       Working on: 100-days-cyber-security
                     ;Wd                            In love: None
-                     ;XO,                          ./about_me.out
+                     ;XO,                          ./get_projects.out
                        ,d0Odlc;,..                 ---
                            ..',;:cdOOd::,.         Best projects: client-server-ransomware, NetX
-                                    .:d;.':;.      More about me: I am glad to make new acquaintances and opportunities 
-                                       'd,  .'                    for cooperation, always ready for interesting meetings 
-                                         ;l   ..                  and joint projects! 
+                                    .:d;.':;.      
+                                       'd,  .'                   
+                                         ;l   ..                
                                           .o       
                                             c      
                                             .'                             
