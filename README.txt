@@ -30,9 +30,9 @@ ________________________________________________________________________________
                     0M.                 .:o.       Working on: 100-days-cyber-security
                     ;Wd                            In love: None
                      ;XO,                          ./get_projects.out
-                       ,d0Odlc;,..                 ---
+                       ,d0Odlc;,..                 ---------------------------------------------
                            ..',;:cdOOd::,.         Best projects: client-server-ransomware, NetX
-                                    .:d;.':;.      
+                                    .:d;.':;.      ---------------------------------------------
                                        'd,  .'                   
                                          ;l   ..                
                                           .o       
