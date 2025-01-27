@@ -32,9 +32,9 @@ ________________________________________________________________________________
                      ;XO,                          ./about_me.out
                        ,d0Odlc;,..                 ---
                            ..',;:cdOOd::,.         Best projects: client-server-ransomware, NetX
-                                    .:d;.':;.      More about me: I gladly welcome new acquaintances and opportunities for cooperation, 
-                                       'd,  .'                    
-                                         ;l   ..                  I am always ready for interesting meetings and joint projects!
+                                    .:d;.':;.      More about me: I am glad to make new acquaintances and opportunities 
+                                       'd,  .'                    for cooperation, always ready for interesting meetings 
+                                         ;l   ..                  and joint projects! 
                                           .o       
                                             c      
                                             .'                             
