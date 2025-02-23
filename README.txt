@@ -28,9 +28,9 @@ ________________________________________________________________________________
                        ,d0Odlc;,..                 ---------------------------------------------------------------
                            ..',;:cdOOd::,.         Best projects: client-server-ransomware, Lock-Talk
                                     .:d;.':;.      ---------------------------------------------------------------
-                                       'd,  .'     $ ghostface-cybersecurity --all commits        
+                                       'd,  .'     $ scarlet-oni --all commits        
                                          ;l   ..     |- (12.02.2025) - 574         
-                                          .o       $ ghostface-cybersecurity commits
+                                          .o       $ scarlet-oni commits
                                             c        |- (12.02.2025) - 424
                                             .'                             
                                              . 
